@@ -675,7 +675,7 @@
 
     .metodo-valido-header {
         display: flex;
-        width: 90%;
+        width: 85%;
         margin: 0 50%;
         align-items: center;
         justify-content: center;
@@ -697,7 +697,7 @@
     .metodo-valido-header span {
         display: flex;
         color: #fff;
-        font-size: 14.5px;
+        font-size: 13.5px;
         font-weight: 400;
     }
 
@@ -705,7 +705,7 @@
         display: flex;
         margin-left: 0.5rem;
         color: #fff;
-        font-size: 14.5px;
+        font-size: 13.5px;
         font-weight: 400;
     }
 
