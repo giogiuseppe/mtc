@@ -474,11 +474,16 @@
         font-weight: bold;
     }
 
-    .title-perguntas i {
+    .perguntas {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    .perguntas .icon-perguntas {
         display: flex;
-        margin: 15px;
-        margin-top: -0.3rem;
+        position: absolute;
         margin-left: 48rem;
+        margin-top: 0.55rem;
     }
 
     .collapsible {
@@ -1093,13 +1098,25 @@
         font-weight: bold;
     }
 
+    .title-perguntas {
+        width: 20rem;
+    }
+
     .title-perguntas span {
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 600;
     }
 
-    .title-perguntas i {
-        display: none;
+    .perguntas {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+    .perguntas .icon-perguntas {
+        display: flex;
+        position: absolute;
+        margin-left: 21.5rem;
+        margin-top: 0.75rem;
     }
 
     .collapsible {
@@ -1107,6 +1124,7 @@
         color: #323030;
         cursor: pointer;
         width: 24rem;
+        height: 4rem;
         padding: 10px;
         border-style: solid;
         border-color: #e0e0e0;
