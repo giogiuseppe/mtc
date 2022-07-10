@@ -478,14 +478,14 @@
         display: flex;
         margin: 15px;
         margin-top: -0.3rem;
-        margin-left: 52rem;
+        margin-left: 48rem;
     }
 
     .collapsible {
         background-color: #f2f2f2;
         color: #323030;
         cursor: pointer;
-        width: 55rem;
+        width: 50.8rem;
         padding: 10px;
         border-style: solid;
         border-color: #e0e0e0;
@@ -497,7 +497,7 @@
     .content {
         display: none;
         overflow: hidden;
-        width: 53.5rem;
+        width: 49.5rem;
         padding: 10px;
         border-style: solid;
         border-color: #e0e0e0;
@@ -518,7 +518,7 @@
         border-color: #dcdcdc;
         border-radius: 20px;
         padding: 50px;
-        width: 40rem;
+        width: 44rem;
         height: 58rem;
         color: #323030;
         font-size: 14px;
@@ -528,7 +528,7 @@
         display: flex;
         margin-left: 3rem;
         margin-top: -1.5rem;
-        margin: 0 30%;
+        margin: 0 31.3%;
         transform: translate(-10%);
     }
 
@@ -554,8 +554,8 @@
         font-size: 18px;
         font-weight: 600;
         color: #fff;
-        margin: 0 65%;
-        transform: translate(65%);
+        margin: 0 78.8%;
+        transform: translate(78.8%);
         margin: 10px;
     }
 
@@ -570,8 +570,8 @@
         font-size: 18px;
         font-weight: 600;
         color: #fff;
-        margin: 0 65%;
-        transform: translate(65%);
+        margin: 0 78.8%;
+        transform: translate(78.8%);
         margin: 10px;
     }
 
